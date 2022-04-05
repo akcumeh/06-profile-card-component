@@ -30,8 +30,8 @@ Screenshot taken with a Chrome extension for [FireShot](https://getfireshot.com)
 
 ### Links
 
-- The solution repo is [here.](https://github.com/akcumeh/06-profile-card-component)
-- The site is currently live [here.](https://akcumeh.github.io/06-profile-card-component)
+- The solution repo is [here](https://github.com/akcumeh/06-profile-card-component).
+- The site is currently live [here](https://akcumeh.github.io/06-profile-card-component).
 
 ## My process
 
@@ -45,16 +45,14 @@ Screenshot taken with a Chrome extension for [FireShot](https://getfireshot.com)
 
 ### What I learned
 
-Not much that is new. [This MDN article](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) is worthy of note, though.
+In this project I learned how to use multiple background images. I never thought it was necessary until this project, and didn't think it was possible when I realized what had to be done. Thankfully, such cases are easily taken care of in CSS; I learned about this from [W3Schools](https://www.w3schools.com/css/css3_backgrounds.asp).
 
 ### Continued development
 
-I want to continue to make projects that are even more disability-inclusive. That would require the use of more semantic HTML5 markup.
-
 ### Useful resources
 
-- [MDN's article on CSS ```box-sizing``` property](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) - This helped me really clear up my misunderstandings about box sizing. I find ```border-box``` most convenient for me currently.
+- [W3Schools](https://www.w3schools.com/css/css3_backgrounds.asp) - This helped me learn how to use multiple background images.
 
 ## Author
 
-You can find more of my solutions on my [Frontend Mentor profile](https://www.frontendmentor.io/profile/akcumeh). If you like what you see, follow me on [Twitter](https://www.twitter.com/akcumeh) and [GitHub](https://github.com/akcumeh). :)
+You can find more of my solutions on my [Frontend Mentor profile](https://www.frontendmentor.io/profile/akcumeh). If you like what you see, follow me on [Twitter](https://www.twitter.com/akcumeh) and [GitHub](https://github.com/akcumeh). If you read this far, you are SUPERRR! and I would be honored if you reached out, thank you! :)
